@@ -6,15 +6,7 @@ import time
 #PY-OPUS
 #For encoding
 
-currentTime = time.clock()
-print currentTime
-counter = 0
 
-while counter < 100:
-    time.sleep(.01)
-    currentTime = time.clock()
-    print currentTime
-    counter = counter+1
 
 #GStreaner (or equivalent)
 #For sending the transmission to the other musician

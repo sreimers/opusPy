@@ -28,6 +28,5 @@ while True:
       currentTime = time.clock()
       print currentTime
       counter = counter+1
-  break
  
 
